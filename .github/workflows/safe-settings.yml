@@ -27,6 +27,6 @@ jobs:
           PRIVATE_KEY: ${{ secrets.SAFE_SETTINGS_PRIVATE_KEY }}
           GITHUB_CLIENT_ID: Iv23liPqJwruhpRKAhHh
           GITHUB_CLIENT_SECRET: f53588f603754b5f1d2c0f2097c7d8d3fb9bf2d9
-          ADMIN_REPO: .github
+          ADMIN_REPO: admin
           CONFIG_PATH: safe-settings
           DEPLOYMENT_CONFIG_FILE: ${{ github.workspace }}/safe-settings/deployment-settings.yml

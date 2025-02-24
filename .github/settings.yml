@@ -1,0 +1,12 @@
+repository:
+  auto_init: true
+  private: true
+  visibility: private
+  default_branch: main
+labels:
+  - name: added
+    description: Added by safe-settings removing by all default
+    color: ededed
+  - name: label-all-repos
+    description: Added by safe-setting
+    color: ededed

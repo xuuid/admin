@@ -2,4 +2,4 @@ repository:
   name: test-repo-2
   description: Example of a test repository manage by safe-settings
   force_create: true
-  template: repo-template
+  template: xuuid/repo-template
